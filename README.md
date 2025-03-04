@@ -1,7 +1,9 @@
-## ✨ About me ✨
-
+# 🚀 Xolisbek's GitHub Profile
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&lines=Hello+everyone!;My+name+is+Xolisbek;I+am+a+mobile+developer" />&nbsp;
+## ✨ About me ✨ 
 
 - 👋 Hi, I’m @Xolisbek
+- 💻 I am a mobile developer
 - 🌱 I know Jetpack Compos and XML
 - ⚡ I have created several projects in XML and Compose, such as an online shop and a banking app.
 - 👀 I am looking for a job as an Android developer.
@@ -21,7 +23,7 @@
   </a>
 </p>
 
-## Languages and Tools:
+## 🛠 Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
@@ -29,14 +31,16 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## Github stats
+## 📊 Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xolisbek&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolisbek&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+
+## Successes on GitHub
+<img src="https://github-profile-trophy.vercel.app/?username=Xolisbek&theme=onedark" />
 
 ## Visitors count
 
-<img src="https://profile-counter.glitch.me/Xolisbek/count.svg" />
+<img src="https://profile-counter.glitch.me/Xolisbek/count.svg" />&nbsp;
 
 <!--
 **Xolisbek/Xolisbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,4 +55,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Profile views](https://komarev.com/ghpvc/?username=Xolisbek&color=blue)
 -->
