@@ -1,11 +1,11 @@
 ## ✨ About me ✨
 
 
-👋 Hi, I’m @Xolisbek
-👀 I am looking for a job as an Android developer.
-🌱 I’m currently learning Jetpack Compose
-⚡ I have made several projects in XML and Compose
-💬 Do you have any question ? Ask me about it !
+- 👋 Hi, I’m @Xolisbek
+- 👀 I am looking for a job as an Android developer.
+- 🌱 I’m currently learning Jetpack Compose
+- ⚡ I have made several projects in XML and Compose
+- 💬 Do you have any question ? Ask me about it !
 
 <!--
 **Xolisbek/Xolisbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
