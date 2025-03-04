@@ -11,14 +11,14 @@
 
 <p align = "left">
   <a href="https://telegram.me/keyboard_of_qwerty">
-  <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />   
-</a>
-<a href="https://www.linkedin.com/in/xolisbek-abdullayev-741432329/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:xolisbekabdullayev@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />   
+  </a>
+  <a href="https://www.linkedin.com/in/xolisbek-abdullayev-741432329/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:xolisbekabdullayev@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <!--
