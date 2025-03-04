@@ -13,13 +13,13 @@
 
 <p align = "left">
   <a href="https://telegram.me/keyboard_of_qwerty" target="blank">
-    <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />&nbsp; 
+    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=Telegram&logoColor=white" />&nbsp; 
   </a>
   <a href="https://www.linkedin.com/in/xolisbek-abdullayev-741432329/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat&logo=Linkedin&logoColor=white" />&nbsp;
   </a>
   <a href="mailto:xolisbekabdullayev@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
