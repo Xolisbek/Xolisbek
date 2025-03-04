@@ -7,7 +7,7 @@
 - 👀 I am looking for a job as an Android developer.
 - 💬 Do you have any question ? Ask me about it !
 
-## Connect me
+## Connect with me
 
 <a href="https://telegram.me/keyboard_of_qwerty">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />   
