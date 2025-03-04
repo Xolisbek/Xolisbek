@@ -33,12 +33,12 @@
 ### 🧰 Frameworks & Libraries
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat&logo=jetpack-compose) 
 ![Retrofit](https://img.shields.io/badge/-Retrofit-05122A?style=flat&logo=square) 
-![Dagger](https://img.shields.io/badge/-Dagger-05122A?style=flat&logo=dagger) 
-![Hilt](https://img.shields.io/badge/-Hilt-05122A?style=flat&logo=dagger) 
-![Room](https://img.shields.io/badge/-Room-05122A?style=flat&logo=google) 
-![LiveData](https://img.shields.io/badge/-LiveData-05122A?style=flat&logo=google) 
-![ViewModel](https://img.shields.io/badge/-ViewModel-05122A?style=flat&logo=google) 
-![Navigation](https://img.shields.io/badge/-Navigation-05122A?style=flat&logo=google) 
+![Dagger](https://img.shields.io/badge/-Dagger-05122A?style=flat&logo=dagger-hilt) 
+![Hilt](https://img.shields.io/badge/-Hilt-05122A?style=flat&logo=hilt) 
+![Room](https://img.shields.io/badge/-Room-05122A?style=flat&logo=room)
+![LiveData](https://img.shields.io/badge/-LiveData-05122A?style=flat&logo=live-data) 
+![ViewModel](https://img.shields.io/badge/-ViewModel-05122A?style=flat&logo=view-model) 
+![Navigation](https://img.shields.io/badge/-Navigation-05122A?style=flat&logo=navigation) 
 ![Coroutines](https://img.shields.io/badge/-Coroutines-05122A?style=flat&logo=kotlin) 
 
 ![RxJava](https://img.shields.io/badge/-RxJava-05122A?style=flat&logo=reactivex) 
@@ -47,9 +47,9 @@
 ![Picasso](https://img.shields.io/badge/-Picasso-05122A?style=flat&logo=square) 
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) 
 ![Material Design](https://img.shields.io/badge/-Material%20Design-05122A?style=flat&logo=material-design) 
-![Gson](https://img.shields.io/badge/-Gson-05122A?style=flat&logo=google) 
-![WorkManager](https://img.shields.io/badge/-WorkManager-05122A?style=flat&logo=google)
-![Timber](https://img.shields.io/badge/-Timber-05122A?style=flat&logo=square)
+![Gson](https://img.shields.io/badge/-Gson-05122A?style=flat&logo=gson) 
+![WorkManager](https://img.shields.io/badge/-WorkManager-05122A?style=flat&logo=work-manager)
+![Timber](https://img.shields.io/badge/-Timber-05122A?style=flat&logo=timber)
 
 ### 🔩 Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio) 
@@ -64,7 +64,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
 ![Android Emulator](https://img.shields.io/badge/-Android%20Emulator-05122A?style=flat&logo=android)
 ![Bluetooth](https://img.shields.io/badge/-Bluetooth-05122A?style=flat&logo=bluetooth)
-![Location](https://img.shields.io/badge/-Location-05122A?style=flat&logo=google)
+![Location](https://img.shields.io/badge/-Location-05122A?style=flat&logo=location)
 
 ## 📊 Github stats
 
