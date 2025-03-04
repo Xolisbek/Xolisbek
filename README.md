@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
