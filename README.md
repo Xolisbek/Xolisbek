@@ -21,7 +21,6 @@
   </a>
 </p>
 
-<br>
 <h2 align="left">Languages and Tools:</h3>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
