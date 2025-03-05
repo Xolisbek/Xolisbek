@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @Xolisbek
 - 💻 I am a mobile developer
-- 🌱 I know Jetpack Compos and XML
-- ⚡ I have created several projects in XML and Compose, such as an online shop and a banking app.
+- 🌱 I know Jetpack Compos and XML for android and flutter
+- ⚡ I have created several projects in android and flutter, such as an online shop and a banking app.
 - 👀 I am looking for a job as an Android developer.
 - 💬 Do you have any question ? Ask me about it !
 
@@ -40,8 +40,8 @@
 ![ViewModel](https://img.shields.io/badge/-ViewModel-05122A?style=flat&logo=view-model) 
 ![Navigation](https://img.shields.io/badge/-Navigation-05122A?style=flat&logo=navigation) 
 ![Coroutines](https://img.shields.io/badge/-Coroutines-05122A?style=flat&logo=kotlin) 
-
 ![RxJava](https://img.shields.io/badge/-RxJava-05122A?style=flat&logo=reactivex) 
+
 ![OkHttp](https://img.shields.io/badge/-OkHttp-05122A?style=flat&logo=square) 
 ![Glide](https://img.shields.io/badge/-Glide-05122A?style=flat&logo=glide) 
 ![Picasso](https://img.shields.io/badge/-Picasso-05122A?style=flat&logo=square) 
@@ -50,6 +50,7 @@
 ![Gson](https://img.shields.io/badge/-Gson-05122A?style=flat&logo=gson) 
 ![WorkManager](https://img.shields.io/badge/-WorkManager-05122A?style=flat&logo=work-manager)
 ![Timber](https://img.shields.io/badge/-Timber-05122A?style=flat&logo=timber)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) 
 
 ### 🔩 Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio) 
@@ -64,7 +65,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
 ![Android Emulator](https://img.shields.io/badge/-Android%20Emulator-05122A?style=flat&logo=android)
 ![Bluetooth](https://img.shields.io/badge/-Bluetooth-05122A?style=flat&logo=bluetooth)
-![Location](https://img.shields.io/badge/-Location-05122A?style=flat&logo=location)
+![Location](https://img.shields.io/badge/-Location-05122A?style=flat&logo=google)
 
 ## 📊 Github stats
 
