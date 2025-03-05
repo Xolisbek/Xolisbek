@@ -70,7 +70,7 @@
 ## 📊 Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Xolisbek&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolisbek&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolisbek&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800" alt="Top Languages" />
 
 ## Successes on GitHub
 <img src="https://github-profile-trophy.vercel.app/?username=Xolisbek&theme=onedark" />
