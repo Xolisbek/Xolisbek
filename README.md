@@ -4,8 +4,9 @@
 
 - 👋 Hi, I’m @Xolisbek
 - 💻 I am a mobile developer
-- 🌱 I know Jetpack Compos and XML for android and flutter
-- ⚡ I have created several projects in android and flutter, such as an online shop and a banking app.
+- 🌱 I know Jetpack Compos and XML for android
+- ⚡ I have created several projects in android, such as an online shop and a banking app.
+- 😎 I am currently learning KMP (Kotlin Multiplatform)
 - 👀 I am looking for a job as an Android developer.
 - 💬 Do you have any question ? Ask me about it !
 
