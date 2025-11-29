@@ -13,7 +13,7 @@
 ## Connect with me
 
 <p align = "left">
-  <a href="https://telegram.me/keyboard_of_qwerty" target="blank">
+  <a href="https://t.me/Xolisbek_Abdullayev" target="blank">
     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=flat&logo=Telegram&logoColor=white" />&nbsp; 
   </a>
   <a href="https://www.linkedin.com/in/xolisbek-abdullayev-741432329/" target="blank">
