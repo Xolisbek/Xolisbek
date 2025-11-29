@@ -27,9 +27,7 @@
 ### 🛠 Languages
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java) 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) 
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=database) 
-![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=xml) 
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart) 
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=database)
 
 ### 🧰 Frameworks & Libraries
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat&logo=jetpack-compose) 
